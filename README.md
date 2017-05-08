@@ -1,2 +1,2 @@
-# jQuery_Notes
-learn and work by jQuery
+# JavaScript_Notes
+learn and work by JS
