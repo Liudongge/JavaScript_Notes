@@ -8,3 +8,6 @@ learn and work by JS
 
 2017/5/9
 《AngularJS权威教程》阅读开始。
+
+2017/7/1
+《javascript权威指南》第六版
